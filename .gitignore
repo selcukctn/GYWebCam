@@ -3,6 +3,7 @@
 # dependencies
 GYWebCamMobile/node_modules/
 electron-webrtc-app/node_modules/
+node_modules/
 
 # Expo
 .expo/
