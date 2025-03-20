@@ -9,11 +9,10 @@ node_modules/
 .expo/
 dist/
 web-build/
-GYWebCamMobile/expo-env.d.ts
-GYWebCamMobile/.expo/
-GYWebCamMobile/dist/
-GYWebCamMobile/web-build/
-GYWebCamMobile/expo-env.d.ts
+expo-env.d.ts
+.expo/
+web-build/
+expo-env.d.ts
 
 # Native
 *.orig.*
