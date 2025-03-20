@@ -82,21 +82,6 @@ Mobil uygulamayı açın ve bilgisayarda görüntülenen QR kodu tarayın. / Ope
 
 Yayını başlatın! / Start streaming! 🎥
 
-🗂️ Veritabanı / Database (SQLite)
-
-GYWebCam, videolar ve bağlantı bilgilerini SQLite veritabanında saklar.
-
-Tablo: videosSütunlar / Columns:
-
-id – Video kimliği / Video ID (UUID)
-
-frameData – Kameradan alınan görüntü verisi / Frame data from the camera
-
-timestamp – Kare alınma zamanı / Timestamp of the frame
-
-deviceIP – Bağlı cihazın IP adresi / Connected device IP address
-
-📸 Ekran Görüntüleri / Screenshots
 
 
 🤝 Katkıda Bulunma / Contributing
