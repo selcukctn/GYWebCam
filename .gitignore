@@ -1,0 +1,43 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+GYWebCamMobile/node_modules/
+electron-webrtc-app/node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+GYWebCamMobile/expo-env.d.ts
+GYWebCamMobile/.expo/
+GYWebCamMobile/dist/
+GYWebCamMobile/web-build/
+GYWebCamMobile/expo-env.d.ts
+
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+app-example
